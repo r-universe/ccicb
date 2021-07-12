@@ -1,5 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ccicb/universe
 	shallow = true
 	branch = HEAD
+[submodule "somaticflags"]
+	path = somaticflags
+	url = https://github.com/CCICB/somaticflags
+	shallow = true
+	registered = true
+[submodule "PCAWGmutations"]
+	path = PCAWGmutations
+	url = https://github.com/CCICB/PCAWGmutations
+	shallow = true
+	registered = true
