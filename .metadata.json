@@ -1,8 +1,5 @@
 [
   {
     "package": "somaticflags"
-  },
-  {
-    "package": "PCAWGmutations"
   }
 ]

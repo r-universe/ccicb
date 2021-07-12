@@ -8,8 +8,3 @@
 	url = https://github.com/CCICB/somaticflags
 	shallow = true
 	registered = true
-[submodule "PCAWGmutations"]
-	path = PCAWGmutations
-	url = https://github.com/CCICB/PCAWGmutations
-	shallow = true
-	registered = true
