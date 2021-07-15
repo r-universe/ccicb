@@ -38,9 +38,14 @@
 	url = https://github.com/ebailey78/shinyBS
 	shallow = true
 	registered = false
-[submodule "utilitybelt"]
-	path = utilitybelt
-	url = https://github.com/selkamand/utilitybelt
+[submodule "utilitybeltassertions"]
+	path = utilitybeltassertions
+	url = https://github.com/selkamand/utilitybeltassertions
+	shallow = true
+	registered = false
+[submodule "utilitybeltlists"]
+	path = utilitybeltlists
+	url = https://github.com/selkamand/utilitybeltlists
 	shallow = true
 	registered = false
 [submodule "utilitybeltshiny"]
