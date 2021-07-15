@@ -48,6 +48,12 @@
     "from": "CRUX"
   },
   {
+    "package": "utilitybeltgg",
+    "url": "https://github.com/selkamand/utilitybeltgg",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
     "package": "utilitybeltlists",
     "url": "https://github.com/selkamand/utilitybeltlists",
     "via": ["CRUX"],

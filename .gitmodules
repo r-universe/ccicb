@@ -43,6 +43,11 @@
 	url = https://github.com/selkamand/utilitybeltassertions
 	shallow = true
 	registered = false
+[submodule "utilitybeltgg"]
+	path = utilitybeltgg
+	url = https://github.com/selkamand/utilitybeltgg
+	shallow = true
+	registered = false
 [submodule "utilitybeltlists"]
 	path = utilitybeltlists
 	url = https://github.com/selkamand/utilitybeltlists
