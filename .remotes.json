@@ -1,0 +1,50 @@
+[
+  {
+    "package": "PCAWGmutations",
+    "url": "https://github.com/CCICB/PCAWGmutations",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "TCGAmutations",
+    "url": "https://github.com/PoisonAlien/TCGAmutations",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "ZEROmutationsCCI",
+    "url": "https://github.com/CCICB/ZEROmutationsCCI",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "golem",
+    "url": "https://github.com/Thinkr-open/golem",
+    "via": ["CRUX", "utilitybeltshiny"],
+    "from": "CRUX"
+  },
+  {
+    "package": "shinyBS",
+    "url": "https://github.com/ebailey78/shinyBS",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "somaticflags",
+    "url": "https://github.com/CCICB/somaticflags",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "utilitybelt",
+    "url": "https://github.com/selkamand/utilitybelt",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "utilitybeltshiny",
+    "url": "https://github.com/selkamand/utilitybeltshiny",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  }
+]

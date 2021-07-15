@@ -13,3 +13,38 @@
 	url = https://github.com/CCICB/CRUX
 	shallow = true
 	registered = true
+[submodule "PCAWGmutations"]
+	path = PCAWGmutations
+	url = https://github.com/CCICB/PCAWGmutations
+	shallow = true
+	registered = false
+[submodule "TCGAmutations"]
+	path = TCGAmutations
+	url = https://github.com/PoisonAlien/TCGAmutations
+	shallow = true
+	registered = false
+[submodule "ZEROmutationsCCI"]
+	path = ZEROmutationsCCI
+	url = https://github.com/CCICB/ZEROmutationsCCI
+	shallow = true
+	registered = false
+[submodule "golem"]
+	path = golem
+	url = https://github.com/Thinkr-open/golem
+	shallow = true
+	registered = false
+[submodule "shinyBS"]
+	path = shinyBS
+	url = https://github.com/ebailey78/shinyBS
+	shallow = true
+	registered = false
+[submodule "utilitybelt"]
+	path = utilitybelt
+	url = https://github.com/selkamand/utilitybelt
+	shallow = true
+	registered = false
+[submodule "utilitybeltshiny"]
+	path = utilitybeltshiny
+	url = https://github.com/selkamand/utilitybeltshiny
+	shallow = true
+	registered = false
