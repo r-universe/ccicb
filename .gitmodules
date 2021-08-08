@@ -34,6 +34,11 @@
 	url = https://github.com/Thinkr-open/golem
 	shallow = true
 	registered = false
+[submodule "mutalisk"]
+	path = mutalisk
+	url = https://github.com/selkamand/mutalisk
+	shallow = true
+	registered = false
 [submodule "shinyBS"]
 	path = shinyBS
 	url = https://github.com/ebailey78/shinyBS

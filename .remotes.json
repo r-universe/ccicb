@@ -24,6 +24,12 @@
     "from": "CRUX"
   },
   {
+    "package": "mutalisk",
+    "url": "https://github.com/selkamand/mutalisk",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
     "package": "shinyBS",
     "url": "https://github.com/ebailey78/shinyBS",
     "via": ["CRUX"],
