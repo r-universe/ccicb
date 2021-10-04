@@ -14,16 +14,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "PCAWGmutations"]
-	path = PCAWGmutations
-	url = https://github.com/CCICB/PCAWGmutations
-	shallow = true
-	registered = false
-[submodule "TCGAmutations"]
-	path = TCGAmutations
-	url = https://github.com/PoisonAlien/TCGAmutations
-	shallow = true
-	registered = false
 [submodule "ZEROmutationsCCI"]
 	path = ZEROmutationsCCI
 	url = https://github.com/CCICB/ZEROmutationsCCI
