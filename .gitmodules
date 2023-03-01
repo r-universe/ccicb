@@ -14,9 +14,19 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "golem"]
-	path = golem
-	url = https://github.com/Thinkr-open/golem
+[submodule "PCAWGmutations"]
+	path = PCAWGmutations
+	url = https://github.com/CCICB/PCAWGmutations
+	shallow = true
+	registered = false
+[submodule "TCGAgistic"]
+	path = TCGAgistic
+	url = https://github.com/CCICB/TCGAgistic
+	shallow = true
+	registered = false
+[submodule "assertions"]
+	path = assertions
+	url = https://github.com/selkamand/assertions
 	shallow = true
 	registered = false
 [submodule "mutalisk"]
@@ -42,20 +52,5 @@
 [submodule "utilitybeltgg"]
 	path = utilitybeltgg
 	url = https://github.com/selkamand/utilitybeltgg
-	shallow = true
-	registered = false
-[submodule "utilitybeltlists"]
-	path = utilitybeltlists
-	url = https://github.com/selkamand/utilitybeltlists
-	shallow = true
-	registered = false
-[submodule "utilitybeltrna"]
-	path = utilitybeltrna
-	url = https://github.com/selkamand/utilitybeltrna
-	shallow = true
-	registered = false
-[submodule "utilitybeltshiny"]
-	path = utilitybeltshiny
-	url = https://github.com/selkamand/utilitybeltshiny
 	shallow = true
 	registered = false

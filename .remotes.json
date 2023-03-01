@@ -1,8 +1,20 @@
 [
   {
-    "package": "golem",
-    "url": "https://github.com/Thinkr-open/golem",
-    "via": ["CRUX", "utilitybeltshiny"],
+    "package": "PCAWGmutations",
+    "url": "https://github.com/CCICB/PCAWGmutations",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "TCGAgistic",
+    "url": "https://github.com/CCICB/TCGAgistic",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "assertions",
+    "url": "https://github.com/selkamand/assertions",
+    "via": ["CRUX", "mutalisk"],
     "from": "CRUX"
   },
   {
@@ -30,44 +42,14 @@
     "from": "CRUX"
   },
   {
-    "package": "utilitybeltassertions",
-    "url": "https://github.com/selkamand/utilitybeltassertions",
-    "via": ["CRUX", "utilitybeltshiny"],
-    "from": "CRUX"
-  },
-  {
     "package": "utilitybeltfmt",
     "url": "https://github.com/selkamand/utilitybeltfmt",
     "via": ["CRUX", "utilitybeltassertions"],
     "from": "CRUX"
   },
   {
-    "package": "utilitybeltfmt",
-    "url": "https://github.com/selkamand/utilitybeltfmt",
-    "via": ["CRUX", "utilitybeltshiny", "utilitybeltassertions"],
-    "from": "CRUX"
-  },
-  {
     "package": "utilitybeltgg",
     "url": "https://github.com/selkamand/utilitybeltgg",
-    "via": ["CRUX"],
-    "from": "CRUX"
-  },
-  {
-    "package": "utilitybeltlists",
-    "url": "https://github.com/selkamand/utilitybeltlists",
-    "via": ["CRUX"],
-    "from": "CRUX"
-  },
-  {
-    "package": "utilitybeltrna",
-    "url": "https://github.com/selkamand/utilitybeltrna",
-    "via": ["CRUX"],
-    "from": "CRUX"
-  },
-  {
-    "package": "utilitybeltshiny",
-    "url": "https://github.com/selkamand/utilitybeltshiny",
     "via": ["CRUX"],
     "from": "CRUX"
   }
