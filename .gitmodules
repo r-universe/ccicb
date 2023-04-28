@@ -8,3 +8,9 @@
 	url = https://github.com/CCICB/somaticflags
 	shallow = true
 	registered = true
+[submodule "CRUX"]
+	path = CRUX
+	url = https://github.com/CCICB/CRUX
+	shallow = true
+	branch = main
+	registered = true
