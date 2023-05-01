@@ -22,5 +22,4 @@
 	path = CRUX
 	url = https://github.com/CCICB/CRUX
 	shallow = true
-	branch = main
 	registered = true
