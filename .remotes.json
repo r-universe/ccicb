@@ -1,0 +1,62 @@
+[
+  {
+    "package": "PCAWGmutations",
+    "url": "https://github.com/CCICB/PCAWGmutations",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "TCGAgistic",
+    "url": "https://github.com/CCICB/TCGAgistic",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "assertions",
+    "url": "https://github.com/selkamand/assertions",
+    "via": ["CRUX", "mutaliskRutils"],
+    "from": "CRUX"
+  },
+  {
+    "package": "assertions",
+    "url": "https://github.com/selkamand/assertions",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "mutaliskRutils",
+    "url": "https://github.com/selkamand/mutaliskRutils",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "shinyBS",
+    "url": "https://github.com/ebailey78/shinyBS",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "somaticflags",
+    "url": "https://github.com/CCICB/somaticflags",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "utilitybeltassertions",
+    "url": "https://github.com/selkamand/utilitybeltassertions",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "utilitybeltfmt",
+    "url": "https://github.com/selkamand/utilitybeltfmt",
+    "via": ["CRUX", "utilitybeltassertions"],
+    "from": "CRUX"
+  },
+  {
+    "package": "utilitybeltgg",
+    "url": "https://github.com/selkamand/utilitybeltgg",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  }
+]
