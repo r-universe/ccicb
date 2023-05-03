@@ -28,6 +28,12 @@
 	url = https://github.com/selkamand/assertions
 	shallow = true
 	registered = false
+[submodule "maftools"]
+	path = maftools
+	url = https://github.com/PoisonAlien/maftools
+	shallow = true
+	branch = 72208f2
+	registered = false
 [submodule "mutaliskRutils"]
 	path = mutaliskRutils
 	url = https://github.com/selkamand/mutaliskRutils
