@@ -69,3 +69,8 @@
 	url = https://github.com/selkamand/utilitybeltgg
 	shallow = true
 	registered = false
+[submodule "zlibbioc"]
+	path = zlibbioc
+	url = https://github.com/Bioconductor/zlibbioc
+	shallow = true
+	registered = false

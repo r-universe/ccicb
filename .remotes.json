@@ -6,6 +6,12 @@
     "from": "CRUX"
   },
   {
+    "package": "DNAcopy",
+    "url": "https://github.com/chaos66ren/DNAcopy",
+    "via": ["PCAWGmutations"],
+    "from": "PCAWGmutations"
+  },
+  {
     "package": "PCAWGmutations",
     "url": "https://github.com/CCICB/PCAWGmutations",
     "via": ["CRUX"],
@@ -16,6 +22,12 @@
     "url": "https://github.com/Bioconductor/Rhtslib",
     "via": ["CRUX"],
     "from": "CRUX"
+  },
+  {
+    "package": "Rhtslib",
+    "url": "https://github.com/Bioconductor/Rhtslib",
+    "via": ["PCAWGmutations"],
+    "from": "PCAWGmutations"
   },
   {
     "package": "TCGAgistic",
@@ -41,6 +53,13 @@
     "via": ["CRUX"],
     "branch": "72208f2",
     "from": "CRUX"
+  },
+  {
+    "package": "maftools",
+    "url": "https://github.com/PoisonAlien/maftools",
+    "via": ["PCAWGmutations"],
+    "branch": "72208f2",
+    "from": "PCAWGmutations"
   },
   {
     "package": "mutaliskRutils",
@@ -77,5 +96,11 @@
     "url": "https://github.com/selkamand/utilitybeltgg",
     "via": ["CRUX"],
     "from": "CRUX"
+  },
+  {
+    "package": "zlibbioc",
+    "url": "https://github.com/Bioconductor/zlibbioc",
+    "via": ["PCAWGmutations"],
+    "from": "PCAWGmutations"
   }
 ]
