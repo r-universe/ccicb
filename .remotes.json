@@ -1,7 +1,19 @@
 [
   {
+    "package": "DNAcopy",
+    "url": "https://github.com/chaos66ren/DNAcopy",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
     "package": "PCAWGmutations",
     "url": "https://github.com/CCICB/PCAWGmutations",
+    "via": ["CRUX"],
+    "from": "CRUX"
+  },
+  {
+    "package": "Rhtslib",
+    "url": "https://github.com/Bioconductor/Rhtslib",
     "via": ["CRUX"],
     "from": "CRUX"
   },

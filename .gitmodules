@@ -23,6 +23,16 @@
 	url = https://github.com/CCICB/CRUX
 	shallow = true
 	registered = true
+[submodule "DNAcopy"]
+	path = DNAcopy
+	url = https://github.com/chaos66ren/DNAcopy
+	shallow = true
+	registered = false
+[submodule "Rhtslib"]
+	path = Rhtslib
+	url = https://github.com/Bioconductor/Rhtslib
+	shallow = true
+	registered = false
 [submodule "assertions"]
 	path = assertions
 	url = https://github.com/selkamand/assertions
