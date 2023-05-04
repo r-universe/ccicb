@@ -12,12 +12,6 @@
     "from": "CRUX"
   },
   {
-    "package": "DNAcopy",
-    "url": "https://github.com/chaos66ren/DNAcopy",
-    "via": ["PCAWGmutations"],
-    "from": "PCAWGmutations"
-  },
-  {
     "package": "PCAWGmutations",
     "url": "https://github.com/CCICB/PCAWGmutations",
     "via": ["CRUX"],
@@ -34,12 +28,6 @@
     "url": "https://github.com/Bioconductor/Rhtslib",
     "via": ["CRUX"],
     "from": "CRUX"
-  },
-  {
-    "package": "Rhtslib",
-    "url": "https://github.com/Bioconductor/Rhtslib",
-    "via": ["PCAWGmutations"],
-    "from": "PCAWGmutations"
   },
   {
     "package": "TCGAgistic",
@@ -127,11 +115,5 @@
     "url": "https://github.com/Bioconductor/zlibbioc",
     "via": ["CRUX"],
     "from": "CRUX"
-  },
-  {
-    "package": "zlibbioc",
-    "url": "https://github.com/Bioconductor/zlibbioc",
-    "via": ["PCAWGmutations"],
-    "from": "PCAWGmutations"
   }
 ]
