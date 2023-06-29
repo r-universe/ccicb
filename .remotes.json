@@ -18,22 +18,9 @@
     "from": "CRUX"
   },
   {
-    "package": "assertions",
-    "url": "https://github.com/selkamand/assertions",
-    "via": ["CRUX"],
-    "from": "CRUX"
-  },
-  {
     "package": "maftools",
     "url": "https://github.com/PoisonAlien/maftools",
     "via": ["CRUX", "PCAWGmutations"],
-    "branch": "72208f2",
-    "from": "CRUX"
-  },
-  {
-    "package": "maftools",
-    "url": "https://github.com/PoisonAlien/maftools",
-    "via": ["CRUX"],
     "branch": "72208f2",
     "from": "CRUX"
   },
