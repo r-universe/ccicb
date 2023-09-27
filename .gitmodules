@@ -2,18 +2,15 @@
 	path = .registry
 	url = https://github.com/ccicb/universe
 	branch = HEAD
-[submodule "somaticflags"]
-	path = somaticflags
-	url = https://github.com/CCICB/somaticflags
-[submodule "TCGAgistic"]
-	path = TCGAgistic
-	url = https://github.com/CCICB/TCGAgistic
-[submodule "PCAWGmutations"]
-	path = PCAWGmutations
-	url = https://github.com/CCICB/PCAWGmutations
 [submodule "CRUX"]
 	path = CRUX
 	url = https://github.com/CCICB/CRUX
+[submodule "PCAWGmutations"]
+	path = PCAWGmutations
+	url = https://github.com/CCICB/PCAWGmutations
+[submodule "TCGAgistic"]
+	path = TCGAgistic
+	url = https://github.com/CCICB/TCGAgistic
 [submodule "assertions"]
 	path = assertions
 	url = https://github.com/selkamand/assertions
@@ -31,6 +28,9 @@
 	path = shinyBS
 	url = https://github.com/ebailey78/shinyBS
 	registered = false
+[submodule "somaticflags"]
+	path = somaticflags
+	url = https://github.com/CCICB/somaticflags
 [submodule "utilitybeltassertions"]
 	path = utilitybeltassertions
 	url = https://github.com/selkamand/utilitybeltassertions
