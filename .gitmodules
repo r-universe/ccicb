@@ -30,6 +30,10 @@
 	path = mutaliskRutils
 	url = https://github.com/selkamand/mutaliskRutils
 	registered = false
+[submodule "mutationtypes"]
+	path = mutationtypes
+	url = https://github.com/selkamand/mutationtypes
+	registered = false
 [submodule "shinyBS"]
 	path = shinyBS
 	url = https://github.com/ebailey78/shinyBS
