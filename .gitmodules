@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ccicb/universe
+	url = https://github.com/ccicb/ccicb.r-universe.dev
 	branch = HEAD
 [submodule "CRUX"]
 	path = CRUX
