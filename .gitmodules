@@ -18,6 +18,9 @@
 [submodule "ggEDA"]
 	path = ggEDA
 	url = https://github.com/CCICB/ggEDA
+[submodule "interactiveEDA"]
+	path = interactiveEDA
+	url = https://github.com/CCICB/interactiveEDA
 [submodule "maftools"]
 	path = maftools
 	url = https://github.com/PoisonAlien/maftools
