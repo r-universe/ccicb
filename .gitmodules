@@ -15,6 +15,9 @@
 	path = assertions
 	url = https://github.com/selkamand/assertions
 	registered = false
+[submodule "ggEDA"]
+	path = ggEDA
+	url = https://github.com/CCICB/ggEDA
 [submodule "maftools"]
 	path = maftools
 	url = https://github.com/PoisonAlien/maftools
