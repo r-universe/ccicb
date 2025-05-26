@@ -49,3 +49,6 @@
 	path = utilitybeltgg
 	url = https://github.com/selkamand/utilitybeltgg
 	registered = false
+[submodule "vcf2mafR"]
+	path = vcf2mafR
+	url = https://github.com/CCICB/vcf2mafR
