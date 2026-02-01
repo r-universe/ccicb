@@ -11,48 +11,15 @@
 [submodule "TCGAgistic"]
 	path = TCGAgistic
 	url = https://github.com/CCICB/TCGAgistic
-[submodule "assertions"]
-	path = assertions
-	url = https://github.com/selkamand/assertions
-	registered = false
 [submodule "ggEDA"]
 	path = ggEDA
 	url = https://github.com/CCICB/ggEDA
 [submodule "interactiveEDA"]
 	path = interactiveEDA
 	url = https://github.com/CCICB/interactiveEDA
-[submodule "maftools"]
-	path = maftools
-	url = https://github.com/PoisonAlien/maftools
-	branch = 72208f2
-	registered = false
-[submodule "mutaliskRutils"]
-	path = mutaliskRutils
-	url = https://github.com/selkamand/mutaliskRutils
-	registered = false
-[submodule "mutationtypes"]
-	path = mutationtypes
-	url = https://github.com/selkamand/mutationtypes
-	registered = false
-[submodule "shinyBS"]
-	path = shinyBS
-	url = https://github.com/ebailey78/shinyBS
-	registered = false
 [submodule "somaticflags"]
 	path = somaticflags
 	url = https://github.com/CCICB/somaticflags
-[submodule "utilitybeltassertions"]
-	path = utilitybeltassertions
-	url = https://github.com/selkamand/utilitybeltassertions
-	registered = false
-[submodule "utilitybeltfmt"]
-	path = utilitybeltfmt
-	url = https://github.com/selkamand/utilitybeltfmt
-	registered = false
-[submodule "utilitybeltgg"]
-	path = utilitybeltgg
-	url = https://github.com/selkamand/utilitybeltgg
-	registered = false
 [submodule "vcf2mafR"]
 	path = vcf2mafR
 	url = https://github.com/CCICB/vcf2mafR
